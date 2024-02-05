@@ -10,7 +10,7 @@ torch==2.0.1
 torchaudio==2.0.2
 resampy==0.4.2
 python-socketio==5.8.0
-fastapi==0.95.1
+fastapi==0.109.1
 python-multipart==0.0.6
 onnxruntime-gpu==1.13.1
 pyworld==0.3.3
